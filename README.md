@@ -1,7 +1,7 @@
 # 🍔 GrillPoint - Hamburguesería a la parilla
 Bienvenido a **GrillPoint**, una plataforma digital diseñada para destacar el auténtico sabor de las hamburguesas con esencia de barbacoa en un entorno web moderno y funcional.
 
-## 🌍 [Visitar el Sitio Web](https://hamburgueseria-grillpoint.netlify.app/) en Netlify
+## 🌍 [Visitar el Sitio Web](https://proyecto-hamburgueseria-grillpoint.netlify.app/) en Netlify
 
 ### Descripción
 **GrillPoint** es una **página web** optimizada para restaurantes especializados en hamburguesasa la parrilla con ingredientes frescos, salsas caseras y un ambiente único. Está construido con la tecnología de **WordPress**, utilizando una combinación de temas y plugins que permiten un diseño flexible y potente:
